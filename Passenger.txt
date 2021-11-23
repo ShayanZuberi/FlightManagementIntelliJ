@@ -10,3 +10,4 @@ Asad	M	22	rawalpindi	126
 Zuberi	M	25	rawalpindi	127
 Hamza	M	25	rawalpindi	120
 Mustafa	M	35	dha 5	134
+Ali Afro	M	22	some addr	passp12

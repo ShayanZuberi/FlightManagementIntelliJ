@@ -10,7 +10,7 @@ public class Airplane {
 	Airplane(){
 		this.name = "";	
 		this.type = "";
-		this.capacity = -1;
+		this.capacity = -1; //commit comment
 		this.priceFactor = 1;
 	}
 	
